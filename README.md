@@ -1,3 +1,3 @@
 # DockerUtilityContainers
 
-docker exec -it -v /path/to/host/folder:/app <image_name> init
+docker run -it -v /path/to/host/folder:/app <image_name> init
