@@ -1,0 +1,19 @@
+{
+  "name": "utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktneranga/DockerUtilityContainers.git"
+  },
+  "author": "Teran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktneranga/DockerUtilityContainers/issues"
+  },
+  "homepage": "https://github.com/ktneranga/DockerUtilityContainers#readme"
+}
