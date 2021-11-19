@@ -1,0 +1,22 @@
+{
+  "name": "node_utility",
+  "version": "1.0.0",
+  "description": "utility containers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktneranga/DockerUtilityContainers.git"
+  },
+  "author": "Teran Neranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktneranga/DockerUtilityContainers/issues"
+  },
+  "homepage": "https://github.com/ktneranga/DockerUtilityContainers#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
